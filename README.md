@@ -1,7 +1,10 @@
-# aashray138
-# aashray138
+# Aashray Shrestha
 
+Hello, My name is Aashray Shrestha. I am a rising senior at Western Michigan University studying Computer Science.
 
-#Hello, My name is Aashray Shrestha. I am a rising senior at Western Michigan University studying computer science.
+Link to my Portfolio : <a href = "https://aashraysth.web.app/"> Portfolio Link </a>
 
-<a href = "https://aashraysth.web.app/"> Portfolio Link </a>
+Connect with me on Linkedin : <a href = "https://www.linkedin.com/in/aashrayshrestha/"> LinkedIn </a>
+
+Reach out to me at : 
+
