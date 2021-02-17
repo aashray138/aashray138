@@ -3,7 +3,7 @@ Aashray Shrestha
 
 Hello, My name is Aashray Shrestha. I am a rising senior at Western Michigan University studying Computer Science. I will be graduating in December 2021.
 
-Link to my Portfolio : <a href = "https://aashraysth.web.app/"> Personal Website </a>
+Link to my Portfolio : <a href = "https://aashrays.herokuapp.com/"> Personal Website </a>
 
 Connect with me on Linkedin : <a href = "https://www.linkedin.com/in/aashrayshrestha/"> LinkedIn </a>
 
